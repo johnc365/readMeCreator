@@ -2,7 +2,6 @@
 import inquirer from "inquirer";
 import fs from 'fs';
 import generateMarkdown from "./utils/generateMarkdown.js";
-import { type } from "os";
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -12,10 +11,35 @@ const questions = [
         name: 'title',
     },
     {
+        type: 'input',
+        message: 'Provide a description for your ReadMe.',
+        name: 'description',
+    },
+    {
+        type: 'input',
+        message: 'What are your installation instructions?',
+        name: 'installationInstructions',
+    },
+    {
+        type: 'input',
+        message: 'Provide your usage information.',
+        name: 'usageInformation',
+    },
+    {
+        type: 'input',
+        message: 'Provide your contribution guidelines',
+        name: 'contributionGuidelines',
+    },
+    {
+        type: 'input',
+        message: 'Provide your test Instructions.',
+        name: 'testInstructions',
+    },
+    {
         type: 'list',
         message: 'What license would you like to use?',
         name: 'license',
-        choices: ['MIT', 'Apache', 'IBM', 'No License'],
+        choices: ['MIT', 'Apache', 'ISC', 'No License'],
     }
 ];
 
