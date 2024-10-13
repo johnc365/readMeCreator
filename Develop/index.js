@@ -32,7 +32,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Provide your test Instructions.',
+        message: 'Provide your test instructions.',
         name: 'testInstructions',
     },
     {
@@ -40,6 +40,15 @@ const questions = [
         message: 'What license would you like to use?',
         name: 'license',
         choices: ['MIT', 'Apache', 'ISC', 'No License'],
+    },
+    {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'gitHub',
+    },{
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'email',
     }
 ];
 
