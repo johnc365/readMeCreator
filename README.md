@@ -18,7 +18,7 @@ In order to install this project, you will need node installed on your computer.
 
 ## Usage
 
-You will need node to use this program. If you do not have node installed on your computer, install it now. Once you have node, you can open your terminal and navigate to the directory in which the index.js file is stored. Then, type "node index.js" into the command line. This will initiate a set of prompts in the command line that. The answers you provide will make up the text of your README.md file. Once you have answered all of the questions, a new file called "sampleReadMe.md" will appear in the directory, built with all of the information you provided in the prompts. If you run the index.js file in node again, it will overwrite the generated file with the most recent data provided to the program. For further usage clarification, watch the video [here]().
+You will need node to use this program. If you do not have node installed on your computer, install it now. Once you have node, you can open your terminal and navigate to the directory in which the index.js file is stored. Then, type "node index.js" into the command line. This will initiate a set of prompts in the command line that. The answers you provide will make up the text of your README.md file. Once you have answered all of the questions, a new file called "sampleReadMe.md" will appear in the directory, built with all of the information you provided in the prompts. If you run the index.js file in node again, it will overwrite the generated file with the most recent data provided to the program. For further usage clarification, watch the video [here](https://drive.google.com/file/d/1GO7lQFZUw38ZGABb99kELllst_q3NBem/view?usp=sharing).
 
 ## Credits
 

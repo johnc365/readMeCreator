@@ -1,6 +1,6 @@
-# asdfjkl
+# Title
 ## Description
-lsadjf
+sample description
 ## Table of Contents
 -[Installation](#installation)<br>
 -[Usage](#usage)<br>
@@ -8,16 +8,16 @@ lsadjf
 -[License](#license)<br>
 -[Tests](#tests)
 ## Installation
-asdlfhl;
+sample instructions
 ## Usage
-asdfhjlk;
+sample information
 ## Credits
-asdfhjl
+sample credits
 ## License
-![license](https://img.shields.io/badge/license-ISC-blue)
-https://choosealicense.com/licenses/isc/
+![license](https://img.shields.io/badge/license-Apache-blue)
+https://choosealicense.com/licenses/apache-2.0/
 ## Tests
-asdfh;
+sample tests
 ## Questions
 [GitHub](https://github.com/johnc365)<br>
-If you have any additonal questions, you can contact me at dsf
+If you have any additonal questions, you can contact me at johnrcaldwell123@gmail.com
